@@ -2,7 +2,6 @@ import json
 import requests
 
 def query_ollama(prompt: str, model: str = "deepseek-r1:8b") -> str:
-    """Sends prompt directly to local Ollama API and enforces JSON output."""
     url = "http://localhost:11434/api/chat"
     payload = {
         "model": model,

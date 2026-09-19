@@ -209,7 +209,7 @@ export default function App() {
           <div className="flex items-center gap-3">
             <div className="hidden sm:flex items-center gap-2 bg-emerald-50 text-emerald-700 border border-emerald-200 px-3 py-1.5 rounded-lg text-xs font-semibold">
               <span className="w-2 h-2 rounded-full bg-emerald-500 animate-ping" />
-              <span>Ollama Model: <strong>Llama 3.2:1b</strong></span>
+              <span>Ollama Model: <strong>DeepSeek R1:8B</strong></span>
             </div>
           </div>
         </div>
