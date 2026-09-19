@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Migraine Episode",
+    "description": "I have had a throbbing headache on one side of my head, extreme sensitivity to light, and mild nausea for the past 4 hours."
+  },
+  {
+    "id": 2,
+    "title": "Seasonal Allergies / Rhinitis",
+    "description": "Constant sneezing, runny nose with clear mucus, watery itchy eyes, and slight throat irritation starting this morning."
+  },
+  {
+    "id": 3,
+    "title": "Gastroenteritis / Stomach Bug",
+    "description": "Nausea, mild fever, sharp stomach cramps, and frequent watery diarrhea after eating food from outside last night."
+  },
+  {
+    "id": 4,
+    "title": "Viral Respiratory Infection / Cold",
+    "description": "Low-grade fever (100°F), dry cough, severe body aches, mild fatigue, and a congested nose for 2 days."
+  },
+  {
+    "id": 5,
+    "title": "Acid Reflux / GERD Flare-up",
+    "description": "Burning sensation in the upper chest, sour taste in the back of the throat, and bloating shortly after eating a heavy meal."
+  }
+]
